@@ -1,4 +1,4 @@
-# hey, I'm Kithmini ☁️
+# heyy, I'm Kithmini 
 
 > *CS undergrad who went from frontend to AWS Lambda faster than a cold start.*
 
