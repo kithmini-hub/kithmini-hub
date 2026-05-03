@@ -1,62 +1,39 @@
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    kithmini@github:~$                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-```bash
-$ whoami
-```
-> CS undergrad @ IIT Colombo (University of Westminster)  
-> Currently: building in the cloud, figuring out what sleep is
+# kithmini bandhusena
 
-```bash
-$ cat about.txt
-```
-> I went from frontend to AWS Lambda faster than a cold start.  
-> Contributed to **Cloud Sentinel** — a real-time AI-powered security  
-> platform for AWS Lambda. Anomaly detection, Docker clusters, WAFs,  
-> a React dashboard consuming live threat data.  
-> It was supposed to be a uni project. It got a little out of hand.  
-> *(in the best way)*
+*cs undergrad · cloud & security · iit colombo*
 
-```bash
-$ ls skills/
-```
-```
-cloud/          languages/       frontend/        tools/
-├── AWS          ├── Python        ├── React         ├── Docker
-├── Lambda       ├── JavaScript    ├── FastAPI        ├── Git
-├── ECS Fargate  ├── Java          ├── Tailwind CSS   ├── Postman
-└── nginx        └── SQL           └── Figma          └── Jira
-```
+</div>
 
-```bash
-$ cat projects/cloud_sentinel.txt
-```
-```
-name     : Cloud Sentinel
-type     : AI-powered AWS Lambda runtime security platform
-stack    : Python · FastAPI · React · Docker · AWS ECS Fargate · JWT
-result   : 96.6% accuracy · 0% false positive rate
-status   : [██████████] shipped
-link     : cloudsentinelsecurity.com
-repo     : github.com/kithmini-hub/CloudSentinel
-```
+---
 
-```bash
-$ cat contact.txt
-```
-```
-linkedin : in/kithmini-bandhusena-985079326
-email    : hiranyakithmini@gmail.com
-```
+currently in my second year at **IIT Colombo** (University of Westminster), somewhere between frontend and the cloud — and honestly enjoying the latter more than I expected.
 
-```bash
-$ echo "currently looking for cloud internships"
-```
-> currently looking for cloud internships
+this year I helped build **Cloud Sentinel**, an AI-powered runtime security platform for AWS Lambda. real-time threat detection, Docker clusters, WAFs, anomaly detection pipelines, and a live React dashboard. it started as a uni project and became something I'm actually proud of.
 
-```bash
-▌
-```
+---
+
+**what I know**
+
+`AWS` `Docker` `Python` `FastAPI` `React` `nginx` `JWT` `Java` `SQL` `Figma`
+
+---
+
+**what I'm working on**
+
+→ looking for a cloud / infrastructure internship  
+→ spending too much time reading about things I don't need to know yet  
+→ figuring out what sleep is  
+
+---
+
+**find me**
+
+[linkedin](https://www.linkedin.com/in/kithmini-bandhusena-985079326/) · [cloud sentinel](https://cloudsentinelsecurity.com)
+
+---
+
+<div align="center">
+<sub><i>what is sleep when there are containers to spin up and dashboards to ship</i></sub>
+</div>
